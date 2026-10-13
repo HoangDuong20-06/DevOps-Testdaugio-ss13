@@ -1,0 +1,9 @@
+# Loai bo thu muc/tepp khong can thiet khoi Docker build context
+build/
+.gradle/
+bin/
+out/
+*.log
+.idea/
+*.iml
+.git/
